@@ -1,8 +1,8 @@
 [
  {
    "Agency ID": 47994,
-   "Name": "Administration for Children and Families (ACF)",
-   "Street1": "370 L'Enfant Promenade, SW",
+   "Name": "Administration for Children and Families",
+   "Street1": "370 L'Enfant Plaza, SW",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20447",
@@ -36,7 +36,7 @@
  {
    "Agency ID": 49064,
    "Name": "Administration for Native Americans",
-   "Street1": "370 L'Enfant Promenade, SW",
+   "Street1": "370 L'Enfant Plaza, SW",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20447-0002",
@@ -52,7 +52,7 @@
  },
  {
    "Agency ID": 47995,
-   "Name": "Administration on Aging (AoA)",
+   "Name": "Administration on Aging",
    "Street1": "One Massachusetts Avenue, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -70,7 +70,7 @@
  {
    "Agency ID": 49066,
    "Name": "Administration on Developmental Disabilities",
-   "Street1": "370 L'Enfant Promenade, SW",
+   "Street1": "370 L'Enfant Plaza, SW",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20447",
@@ -104,7 +104,7 @@
  {
    "Agency ID": 49070,
    "Name": "Administrative Office of the U.S. Courts",
-   "Street1": "One Columbus Circle, NE",
+   "Street1": "1 Columbus Circle, NE",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20544",
@@ -154,7 +154,7 @@
  },
  {
    "Agency ID": 49074,
-   "Name": "Agency for Healthcare Research and Quality (AHRQ)",
+   "Name": "Agency for Healthcare Research and Quality",
    "Street1": "540 Gaither Road",
    "City": "Rockville",
    "Stateter": "MD",
@@ -444,7 +444,7 @@
  {
    "Agency ID": 49100,
    "Name": "Arthritis and Musculoskeletal Interagency Coordinating Committee",
-   "Street1": "1 AMS Circle",
+   "Street1": "1 AMS Cir",
    "City": "Bethesda",
    "Stateter": "MD",
    "Zip": "20892-3675",
@@ -461,7 +461,7 @@
  {
    "Agency ID": 49102,
    "Name": "Bankruptcy Courts",
-   "Street1": "1 AMS Circle",
+   "Street1": "1 AMS Cir",
    "City": "Bethesda",
    "Stateter": "MD",
    "Zip": "20892-3675",
@@ -478,7 +478,7 @@
  {
    "Agency ID": 49105,
    "Name": "Barry M. Goldwater Scholarship and Excellence in Education Program",
-   "Street1": "1 AMS Circle",
+   "Street1": "1 AMS Cir",
    "City": "Bethesda",
    "Stateter": "MD",
    "Zip": "20892-3675",
@@ -562,7 +562,7 @@
  },
  {
    "Agency ID": 49115,
-   "Name": "Bureau of Economic Analysis (BEA)",
+   "Name": "Bureau of Economic Analysis",
    "Street1": "1441 L Street, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -579,7 +579,7 @@
  },
  {
    "Agency ID": 91587,
-   "Name": "Bureau of Engraving and Printing (BEP)",
+   "Name": "Bureau of Engraving and Printing",
    "Street1": "14th and C Streets, SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1684,7 +1684,7 @@
  },
  {
    "Agency ID": 49217,
-   "Name": "Defense Security Cooperation Agency (DSCA)",
+   "Name": "Defense Security Cooperation Agency",
    "Street1": "2800 Defense Pentagon",
    "City": "Wasington",
    "Stateter": "DC",
@@ -1701,7 +1701,7 @@
  },
  {
    "Agency ID": 49219,
-   "Name": "Defense Security Service (DSS)",
+   "Name": "Defense Security Service",
    "Street1": "10430 Furnace Rd",
    "City": "Lorton",
    "Stateter": "VA",
@@ -1735,7 +1735,7 @@
  },
  {
    "Agency ID": 49223,
-   "Name": "Defense Threat Reduction Agency (DTRA)",
+   "Name": "Defense Threat Reduction Agency",
    "Street1": "8725 John J Kingman Rd",
    "City": "Ft Belvoir",
    "Stateter": "VA",
@@ -1803,7 +1803,7 @@
  },
  {
    "Agency ID": 49018,
-   "Name": "Department of Education (ED)",
+   "Name": "Department of Education",
    "Street1": "400 Maryland Avenue, SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1820,7 +1820,7 @@
  },
  {
    "Agency ID": 49019,
-   "Name": "Department of Energy (DOE)",
+   "Name": "Department of Energy",
    "Street1": "1000 Independence Avenue, SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1837,7 +1837,7 @@
  },
  {
    "Agency ID": 49022,
-   "Name": "Department of Homeland Security (DHS)",
+   "Name": "Department of Homeland Security",
    "Street1": "1000 Independence Avenue, SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1854,7 +1854,7 @@
  },
  {
    "Agency ID": 49023,
-   "Name": "Department of Housing and Urban Development (HUD)",
+   "Name": "Department of Housing and Urban Development",
    "Street1": "451 7th Street, SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1871,7 +1871,7 @@
  },
  {
    "Agency ID": 52686,
-   "Name": "Department of Justice (DOJ)",
+   "Name": "Department of Justice",
    "Street1": "950 Pennsylvania Avenue, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1888,7 +1888,7 @@
  },
  {
    "Agency ID": 49028,
-   "Name": "Department of Labor (DOL)",
+   "Name": "Department of Labor",
    "Street1": "Frances Perkins Building",
    "City": "Washington",
    "Stateter": "DC",
@@ -1905,7 +1905,7 @@
  },
  {
    "Agency ID": 49030,
-   "Name": "Department of State (DOS)",
+   "Name": "Department of State",
    "Street1": "2201 C Street, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1922,7 +1922,7 @@
  },
  {
    "Agency ID": 49033,
-   "Name": "Department of the Interior (DOI)",
+   "Name": "Department of the Interior",
    "Street1": "1849 C Street, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -1939,7 +1939,7 @@
  },
  {
    "Agency ID": 49035,
-   "Name": "Department of Transportation (DOT)",
+   "Name": "Department of Transportation",
    "Street1": "1200 New Jersey Avenue, SE",
    "City": "Washington",
    "Stateter": "DC",
@@ -1956,7 +1956,7 @@
  },
  {
    "Agency ID": 48027,
-   "Name": "Department of Veterans Affairs (VA)",
+   "Name": "Department of Veterans Affairs",
    "Street1": "810 Vermont Avenue, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2041,7 +2041,7 @@
  },
  {
    "Agency ID": 49240,
-   "Name": "Economic Development Administration (EDA)",
+   "Name": "Economic Development Administration",
    "Street1": "1401 Constitution Avenue, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2109,7 +2109,7 @@
  },
  {
    "Agency ID": 52676,
-   "Name": "Education Resources Information Center (ERIC)",
+   "Name": "Education Resources Information Center",
    "Street1": "655 15th St. NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2143,7 +2143,7 @@
  },
  {
    "Agency ID": 48029,
-   "Name": "Employee Benefits Security Administration (EBSA)",
+   "Name": "Employee Benefits Security Administration",
    "Street1": "200 Constitution Ave, NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2194,7 +2194,7 @@
  },
  {
    "Agency ID": 48030,
-   "Name": "Energy Efficiency and Renewable Energy (EERE)",
+   "Name": "Energy Efficiency and Renewable Energy",
    "Street1": "1000 Independence Ave SW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2262,7 +2262,7 @@
  },
  {
    "Agency ID": 49259,
-   "Name": "Environmental Management (Energy Department)",
+   "Name": "Environmental Management",
    "Street1": "1200 Pennsylvania Ave., NW",
    "City": "Washington",
    "Stateter": "DC",
@@ -2279,7 +2279,7 @@
  },
  {
    "Agency ID": 49039,
-   "Name": "Environmental Protection Agency (EPA)",
+   "Name": "Environmental Protection Agency",
    "Street1": "Ariel Rios Building",
    "City": "Washington",
    "Stateter": "DC",
@@ -2296,7 +2296,7 @@
  },
  {
    "Agency ID": 48032,
-   "Name": "Equal Employment Opportunity Commission (EEOC)",
+   "Name": "Equal Employment Opportunity Commission",
    "Street1": "131 M Street, NE",
    "City": "Washington",
    "Stateter": "DC",
@@ -2654,7 +2654,7 @@
  {
    "Agency ID": 49294,
    "Name": "Federal Geographic Data Committee",
-   "Street1": "590 National Center",
+   "Street1": "12201 Sunrise Valley Dr",
    "City": "Reston",
    "Stateter": "VA",
    "Zip": "20192",
@@ -2665,7 +2665,7 @@
    "Parent Uri": "null/api/USAGovAPI/contacts.json/contact/49034",
    "Parent Name": "U.S. Department of the Treasury",
    "Email": "fgdc@fgdc.gov",
-   "Street2": "",
+   "Street2": "590 National Center",
    "Synonym": ""
  },
  {
@@ -3028,7 +3028,7 @@
  {
    "Agency ID": 49320,
    "Name": "Federal Retirement Thrift Investment Board",
-   "Street1": "Thrift Savings Plan",
+   "Street1": "P.O. Box 385021",
    "City": "Birmingham",
    "Stateter": "AL",
    "Zip": "35238",
@@ -3039,7 +3039,7 @@
    "Parent Uri": "",
    "Parent Name": "",
    "Email": "",
-   "Street2": "PO Box 385021",
+   "Street2": "Thrift Savings Plan",
    "Synonym": ""
  },
  {
@@ -3946,7 +3946,7 @@
  {
    "Agency ID": 49431,
    "Name": "Judicial Panel on Multidistrict Litigation",
-   "Street1": "One Columbus Circle, NE",
+   "Street1": "1 Columbus Circle, NE",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20544-0005",
@@ -4966,7 +4966,7 @@
  {
    "Agency ID": 49533,
    "Name": "National Ocean Service",
-   "Street1": "SSMC4, Room 13317",
+   "Street1": "1305 East West Highway",
    "City": "Silver Spring",
    "Stateter": "MD",
    "Zip": "20910",
@@ -4977,7 +4977,7 @@
    "Parent Uri": "null/api/USAGovAPI/contacts.json/contact/49530",
    "Parent Name": "National Oceanic and Atmospheric Administration (NOAA)",
    "Email": "nos.info@noaa.gov",
-   "Street2": "1305 East West Highway",
+   "Street2": "SSMC4, Room 13317",
    "Synonym": ""
  },
  {
@@ -5459,7 +5459,7 @@
  {
    "Agency ID": 48104,
    "Name": "Office of Child Support Enforcement (OCSE)",
-   "Street1": "370 LEnfant Promenade, SW",
+   "Street1": "370 LEnfant Plaza, SW",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20447",
@@ -6003,8 +6003,8 @@
  {
    "Agency ID": 49601,
    "Name": "Pacific Command",
-   "Street1": "USPACOM J01PA",
-   "City": "Camp H.M. Smith",
+   "Street1": "Camp H.M. Smith",
+   "City": "Halawa",
    "Stateter": "HI",
    "Zip": "96861-4031",
    "Phone": "(808) 477-6282",
@@ -6014,7 +6014,7 @@
    "Parent Uri": "null/api/USAGovAPI/contacts.json/contact/49726",
    "Parent Name": "Unified Combatant Commands (Defense Department)",
    "Email": "info@opic.gov",
-   "Street2": "Box 64031",
+   "Street2": "USPACOM J01PA, Box 64031",
    "Synonym": ""
  },
  {
@@ -7635,7 +7635,7 @@
  {
    "Agency ID": 49719,
    "Name": "U.S. Sentencing Commission",
-   "Street1": "One Columbus Circle NE",
+   "Street1": "1 Columbus Circle NE",
    "City": "Washington",
    "Stateter": "DC",
    "Zip": "20002-8002",
