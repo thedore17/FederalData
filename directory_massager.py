@@ -1,5 +1,6 @@
 import json
 from geopy.geocoders import GoogleV3
+from config import google_api_key
 
 input_file = "federal_agency_directory.json"
 output_file = "geocoded_directory.json"
@@ -10,7 +11,7 @@ cabinet_level_ids = [49743, 49229, 49018, 49019, 49022, 49023, 52686, 49028, 490
 
 
 def add_geocoordinates_to_directory():
-    geolocator = GoogleV3()
+    geolocator = GoogleV3(api_key=google_api_key)
 
     with open(input_file) as json_data:
         directory = json.load(json_data)
@@ -19,7 +20,10 @@ def add_geocoordinates_to_directory():
 
     for agency in directory:
         address = agency["Street1"] + ", " + agency["City"] + ", " + agency["Stateter"]
-        location = geolocator.geocode(address, timeout=10)
+        try:
+            location = geolocator.geocode(address, timeout=10)
+        except:
+            print("Geocoder failed. Found count: %s" % found_count)
         if location is None:
             print("Invalid Location: %s" % address)
         else:
@@ -156,24 +160,36 @@ def remove_redundant_geocodes_and_reorder_data():
         json.dump(ordered_agencies, outfile)
 
 
+def get_full_domain_from_email(email):
+    try:
+        return email.split('@')[1]
+    except IndexError as e:
+        print(e)
+        print("Bad email: %s" % email)
+
+
 def remove_redundant_emails():
     # remove_redundant_geocodes() must be run first
+
+    # REMOVE REDUNDANT DOMAINS!!! Not emails
 
     with open(cloakroom_file) as json_data:
         directory = json.load(json_data)
 
-    saved_emails = []
+    saved_domains = []
 
     for agency in directory:
         email = agency["Email"]
-        if email is not None and email not in saved_emails:
-            saved_emails.append(email)
-        elif email is not None and len(email) > 0:
-            print("Redundant email found for cabinet agency %s %s" % (agency["Name"], agency["Email"]))
-            agency["Email"] = None
+        if email is not None and email != "":
+            domain = get_full_domain_from_email(email)
+            if domain is not None and domain not in saved_domains:
+                saved_domains.append(domain)
+            elif domain is not None and len(domain) > 0:
+                print("Redundant email found for cabinet agency %s %s" % (agency["Name"], agency["Email"]))
+                agency["Email"] = None
 
     print("Total agencies in directory: %d" % len(directory))
-    print("Saved emails: %d" % len(saved_emails))
+    print("Saved emails: %d" % len(saved_domains))
 
     open(cloakroom_file, 'w').close()
 
